@@ -1,0 +1,25 @@
+{
+  "name": "covid-br-api",
+  "version": "1.0.0",
+  "description": "Busca pelos dados da Covid-19 no Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviromao/covid-br-api.git"
+  },
+  "keywords": [
+    "covid19",
+    "coronavirus",
+    "covid",
+    "covidbr"
+  ],
+  "author": "Davi da Silva Romão",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviromao/covid-br-api/issues"
+  },
+  "homepage": "https://github.com/daviromao/covid-br-api#readme"
+}
