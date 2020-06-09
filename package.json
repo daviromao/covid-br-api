@@ -4,6 +4,7 @@
   "description": "Busca pelos dados da Covid-19 no Brasil",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/daviromao/covid-br-api/issues"
   },
-  "homepage": "https://github.com/daviromao/covid-br-api#readme"
+  "homepage": "https://github.com/daviromao/covid-br-api#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
