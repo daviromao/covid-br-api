@@ -15,4 +15,4 @@ Vá para até o diretório que você clonou e instale as dependências:
 
 ## Pull Requests
 
-Crie um Pull Request para enviar sua alteração no código e aguarde um feedback sobre ele. :)
+Crie um [Pull Request](https://github.com/daviromao/covid-br-api/pulls) para enviar sua alteração no código e aguarde um feedback sobre ele. :)
