@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/wz5gJkG.png" width="80px"/></br>
-  <p style="font-size:10px;">art by: Vinicius Aranda</p>
+  <sup>art by: Vinicius Aranda</sup>
   <h1>COVID BR API</h1>
 </div>
 <p align="center">
