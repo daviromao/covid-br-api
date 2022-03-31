@@ -1,3 +1,10 @@
+# ⛔️ DEPRECATED 
+This is no longer continued.
+
+![](http://unmaintained.tech/badge.svg)
+
+
+
 <div align="center">
   <img src="https://i.imgur.com/wz5gJkG.png" width="80px"/></br>
   <sup>art by: Vinicius Aranda</sup>
